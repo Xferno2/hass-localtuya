@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Alexandru\\source\\repos\\hass-localtuya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alexandru\\source\\repos\\hass-localtuya\\custom_components\\localtuya\\light.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:custom_components\\localtuya\\light.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alexandru\\source\\repos\\hass-localtuya\\custom_components\\localtuya\\coordinator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:custom_components\\localtuya\\coordinator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alexandru\\source\\repos\\hass-localtuya\\custom_components\\localtuya\\light.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:custom_components\\localtuya\\light.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alexandru\\source\\repos\\hass-localtuya\\custom_components\\localtuya\\const.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -60,25 +60,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "coordinator.py",
               "DocumentMoniker": "C:\\Users\\Alexandru\\source\\repos\\hass-localtuya\\custom_components\\localtuya\\coordinator.py",
               "RelativeDocumentMoniker": "custom_components\\localtuya\\coordinator.py",
               "ToolTip": "C:\\Users\\Alexandru\\source\\repos\\hass-localtuya\\custom_components\\localtuya\\coordinator.py",
               "RelativeToolTip": "custom_components\\localtuya\\coordinator.py",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAkwJ0AAABfAAAAAAAAAA==",
+              "ViewState": "AgIAADsCAAAAAAAAAAAawHcBAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-03-05T09:07:18.903Z"
+              "WhenOpened": "2025-03-05T09:07:18.903Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "light.py",
               "DocumentMoniker": "C:\\Users\\Alexandru\\source\\repos\\hass-localtuya\\custom_components\\localtuya\\light.py",
               "RelativeDocumentMoniker": "custom_components\\localtuya\\light.py",
               "ToolTip": "C:\\Users\\Alexandru\\source\\repos\\hass-localtuya\\custom_components\\localtuya\\light.py",
               "RelativeToolTip": "custom_components\\localtuya\\light.py",
-              "ViewState": "AgIAAGICAAAAAAAAAAAawHgCAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAJwCAAAAAAAAAAAawLACAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-03-05T08:22:43.771Z",
               "EditorCaption": ""
